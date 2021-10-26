@@ -26,7 +26,7 @@ summary(parks) # Look at a summary of each column
 # {stringr}: working with strings
 # {forcats}: working with factors
 # {purrr}: functional programming
-# {rvset}: web scraping
+# {rvest}: web scraping
 
 # https://www.tidyverse.org/packages/
 
