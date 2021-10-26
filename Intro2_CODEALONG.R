@@ -17,7 +17,7 @@
 # {stringr}: working with strings
 # {forcats}: working with factors
 # {purrr}: functional programming
-# {rvset}: web scraping
+# {rvest}: web scraping
 
 # https://www.tidyverse.org/packages/
 
