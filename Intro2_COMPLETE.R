@@ -3,7 +3,7 @@ library(lubridate)
 library(dplyr)
 
 # ---- Import Data ----
-parks <- read.csv("parks_updated.csv")
+parks <- read.csv("parks.csv")
 
 # ---- Exploring Data Frames ----
 View(parks)    # View data in a new tab
