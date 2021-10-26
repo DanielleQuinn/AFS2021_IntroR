@@ -30,3 +30,4 @@ Install the up-to-date versions of each required package, using the following co
 
 `install.packages(dplyr)`
 `install.packages(lubridate)`
+`install.packages(ggplot2)`
