@@ -23,3 +23,10 @@ Install the free RStudio IDE from [this website](https://www.rstudio.com/product
 *If you already have RStudio installed on your computer, please ensure that it is at least version 1.4*
 
 **Note: If you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later.**
+
+#### 4. Install Packages  
+
+Install the up-to-date versions of each required package, using the following code:  
+
+`install.packages(dplyr)`
+`install.packages(lubridate)`
