@@ -28,6 +28,6 @@ Install the free RStudio IDE from [this website](https://www.rstudio.com/product
 
 Install the up-to-date versions of each required package, using the following code:  
 
-`install.packages(dplyr)`
-`install.packages(lubridate)`
+`install.packages(dplyr)`  
+`install.packages(lubridate)`  
 `install.packages(ggplot2)`
